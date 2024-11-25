@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.ibb.co.com/3f9R4vz/Make-your-README-1.png" alt="MERN stack developer"/>
+</p>
+
+
 # 💫 About Me
 
 Hello, I'm **@nurhanulislamratul**  
